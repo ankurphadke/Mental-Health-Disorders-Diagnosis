@@ -8,6 +8,7 @@ American Statistical Association’s DataFest._
 **Link to presentation video:** https://drive.google.com/file/d/1ETTxWzelNi1-ePkUr26hBciJEE84ndNQ/view?usp=sharing
 
 **Primary Questions:**
+
 Overburdened by studies, many students conform to drug use and alcoholism. They are also often worst affected by
 mental health. Substance abuse is known to trigger or intensify the feelings of loneliness, sadness and hopelessness
 often associated with depression (Depression and Substance Abuse - Addiction Center, 2021). How many students
@@ -16,7 +17,9 @@ aware of their illness/abuse and choose to seek counselling?
 The **general goal** of the project was to analyse the usage of the most common drugs/substances among students in
 Canada and come up with a process that would assist universities in diagnosing students with mental health
 disorders in an efficient manner if there is a relationship between the two.
+
 **Methodology:**
+
 We selected the Canadian dataset and narrowed our focus to only Canadian university students. This was done by
 filtering (DEM_STDNT==1). Since there were a lot of drugs provided, we decided to only concentrate on
 Cannabis and Alcohol which are very popular and widely available among university students. We started by doing
@@ -24,7 +27,9 @@ exploratory data analysis and found some interesting insights such as the relati
 Cannabis use and anxiety. From our EDA, we built a logistic regression model where the selection of predictors
 were influenced by EDA. The process starts with students filling out a questionnaire form (shown below) which is
 based on the predictors from our logistic regression model.
+
 **Questionnaire:**
+
 1. What is your gender?
 2. How old are you?
 3. Are you currently a healthcare professional (providing care to patients)?
