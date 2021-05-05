@@ -1,6 +1,6 @@
 # Mental-Health-Disorders-Diagnosis
 
-**Proprietory Statement:**_Data from the RADARS® System Survey of Non-Medical Use of Prescription Drugs Program
+**Proprietory Statement:**_ Data from the RADARS® System Survey of Non-Medical Use of Prescription Drugs Program
 are not public. These data are proprietary and are only to be used for the purposes of the
 American Statistical Association’s DataFest._
 
