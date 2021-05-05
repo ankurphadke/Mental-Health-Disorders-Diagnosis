@@ -36,11 +36,13 @@ intended to misuse?
 8. Have you ever had blackouts or flashbacks as a result of drug use?
 9. Do you ever feel bad or guilty about your drug use?
 10. Does your spouse (or parents) ever complain about your involvement with drugs?
+
 The answers of our questionnaire form would act as the input of the model and that would be used to calculate the
 accuracy through 5 or 10-fold cross validation. In our experiment, we obtained **70.73% accuracy** through 5-fold
 cross validation which is excellent considering the time constraint. From these results, the university can take
 actions and narrow down the diagnosis making the overall process much faster, promoting awareness through
 workshops about mental health to targeted students, and facilitating the appropriate treatment to students.
+
 There are a few concerns regarding accuracy especially because the mental health data refers to students being
 informed about their disorders at any point in their life. There wasn’t enough data to deduce whether mental health
 disorders promoted drug/alcohol consumption, or vice versa. Furthermore, the amount of analysis to deduce the
