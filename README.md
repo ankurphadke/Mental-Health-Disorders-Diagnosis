@@ -4,7 +4,7 @@
 are not public. These data are proprietary and are only to be used for the purposes of the
 American Statistical Association’s DataFest._
 
-**Link to presentation video:** https://drive.google.com/file/d/1ETTxWzelNi1-ePkUr26hBciJEE84ndNQ/view?usp=sharing
+**Link to presentation video:** https://www.youtube.com/watch?v=0W-z8bdvMz8&ab_channel=FacultyofMathematics%2CUniversityofWaterloo
 
 **Primary Questions:**
 
